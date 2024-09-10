@@ -12,7 +12,7 @@ import java.time.LocalDate;
 public class Author {
     private int id;
     private String name;
-    private String Surname;
+    private String surname;
     private String email;
     private LocalDate dateofBirth;
     private String avatar;
